@@ -36,8 +36,12 @@ to analyze order funnel, delivery SLA, customer cohorts, and RFM segmentation.
 ## Dashboard Pages
 - **Page 1 — Operations Overview:** Funnel conversion, 
   SLA summary, Late delivery by state, Monthly order trends
+  <img width="2075" height="1200" alt="olist_dashboard_page-0001" src="https://github.com/user-attachments/assets/bbb681f5-9304-409a-ac3b-4513db6775ab" />
+
 - **Page 2 — Customer Intelligence:** RFM segments, 
   Cohort retention heatmap, Avg spend by segment
+  <img width="2075" height="1200" alt="olist_dashboard_page-0002" src="https://github.com/user-attachments/assets/8b5b5e59-283b-4348-a446-c53c4c1e3c45" />
+
 
 ## Dataset
 [Olist Brazilian E-commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
